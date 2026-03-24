@@ -1,0 +1,12 @@
+.cache/
+--git-common-dir/
+__pycache__/
+*.pyc
+.eggs/
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+outputs/
+results/
+logs/

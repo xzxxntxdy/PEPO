@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv.svg)](https://arxiv.org/abs/) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2603.22847-b31b1b.svg)](https://arxiv.org/abs/2603.22847)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-Code-green)](https://github.com/xzxxntxdy/PEPO)
 
 </div>
@@ -356,18 +356,18 @@ We thank the [ms-swift](https://github.com/modelscope/ms-swift) team for providi
 
 ---
 
-<!-- ## Citation
+## Citation
 
 If you find this repository useful, please cite the PEPO paper:
 
 ```bibtex
-@article{pepo,
+@article{li2026rethinking,
   title={Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought},
-  author={...},
-  journal={arXiv preprint},
+  author={Li, Yunheng and Kuang, Hangyi and Zhang, Hengrui and Cao, Jiangxia and Liu, Zhaojie and Hou, Qibin and Cheng, Ming-Ming},
+  journal={arXiv preprint arXiv:2603.22847},
   year={2026}
 }
-``` -->
+```
 
 ---
 

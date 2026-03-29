@@ -75,8 +75,8 @@ cmd=(
   --dynamic_sample true
   --overlong_filter true
   --img_token '<|image_pad|>'
-  --gate_alpha 0.10
-  --gate_temperature 1.0
+  --gate_alpha 0.05
+  --gate_temperature 1.8
   --use_vision_weights true
   --output_dir "${OUTPUT_DIR}"
 )

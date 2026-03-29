@@ -75,8 +75,8 @@ cmd=(
   --async_generate false
   --attn_impl flash_attn
   --img_token '<IMG_CONTEXT>'
-  --gate_alpha 0.18
-  --gate_temperature 1.0
+  --gate_alpha 0.05
+  --gate_temperature 1.8
   --use_vision_weights false
   --output_dir "${OUTPUT_DIR}"
 )
